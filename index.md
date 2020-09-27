@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的个人主页
 
-You can use the [editor on GitHub](https://github.com/Caper1/Caper.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以在这了解关于到我的一些个人信息。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简历
+姓名：吴林祥
+学历：大学本科
+学校：石家庄铁道大学
+邮箱：1061321925@qq.com
+地址：河北省衡水市
+擅长技能：c语言、python、javaweb
+### 学习情况
+本科三年学习成绩良好，获得四次二等奖学金。无挂科。
+### 社会活动情况
+积极参加青协志愿活动
+### 专业实践情况
+努力完成专业实践要求，表现良好
+### 专业技能展示
+擅长技能：c语言、python、javaweb
+### 专业博客发表
+请移步我的博客 https://www.cnblogs.com/1061321925wu/
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Caper1/Caper.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
